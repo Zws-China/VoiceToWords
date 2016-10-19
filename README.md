@@ -3,7 +3,7 @@
 
 
 # PhotoShoot
-![image](https://github.com/Zws-China/WSCycleScrollView/blob/master/WSCycleScrollView/WSCycleScrollView/scroll.gif)
+![image](https://github.com/Zws-China/VoiceToWords/blob/master/Wechat.jpeg)
 
 
 # How To Use
